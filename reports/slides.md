@@ -32,4 +32,4 @@ Below are a few resources on recording videos:
 -   [Windows 10 built-in screen recording functionality](https://www.youtube.com/watch?v=OfPbr1mRDuo)
 -   [Kap for screen recording](https://getkap.co/)
 
-Once your video is ready, upload the video to Moodle, then embed the video in an new discussion post on the Moodle Forum.
+-Once your video is ready, upload the video to Moodle, then embed the video in an new discussion post on the Moodle Forum.
