@@ -10,7 +10,7 @@ format:
     smaller: true
     preview-links: auto
     footer: "Data Storytelling - WiSe 2022/23 - Prof. Dr. Jan Kirenz"
-resources: ex_6_6-presentation
+resources: presentation
 ---
 
 ## Topic & Motivation {.smaller}
